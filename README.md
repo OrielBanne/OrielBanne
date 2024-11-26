@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @OrielBanne
 - 👀 I’m interested in Machine Learning, EEG signals deciphering, fMRI brain signals
-- 🌱 I’m currently learning fMRI (❁´◡`❁)
+- 🌱 I’m currently developing TheStoryteller! (❁´◡`❁)
 - 💞️ I’m looking to collaborate on small, smart, impactful projects
 - 📫 How to reach me oriel.banne@gmail.com
 
